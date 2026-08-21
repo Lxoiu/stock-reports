@@ -1,6 +1,6 @@
 {
-  "version": "1.1.1",
-  "notes": "v1.1.1 更新内容：\n修复：历史研报兼容问题（加密口令升级后，旧版本生成的研报文件现在也能正常解密查看）",
-  "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.1/Setup.1.1.1.exe",
-  "sha256": "ddcec9bc4fecd817e50b4e71ce8c1db7e410d8cdcb906d0d8770ce471d0857b0"
+  "version": "1.1.2",
+  "notes": "v1.1.2 更新内容：\n1. 修复：历史研报首次查看自动下载（不再提示本地没有）\n2. 修复：发布端同版本重传不再报错",
+  "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.2/Setup.1.1.2.exe",
+  "sha256": "d5ec0f0ff5d55b928f4b0c06b92a24ac6606bd585daced1fec76f3a81c374eac"
 }
