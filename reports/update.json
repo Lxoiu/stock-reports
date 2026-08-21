@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "notes": "v1.1.2 更新内容：\n1. 修复：历史研报首次查看自动下载（不再提示本地没有）\n2. 修复：发布端同版本重传不再报错",
-  "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.2/Setup.1.1.2.exe",
-  "sha256": "d5ec0f0ff5d55b928f4b0c06b92a24ac6606bd585daced1fec76f3a81c374eac"
+  "version": "1.1.3",
+  "notes": "v1.1.3 更新内容：\n修复：CDN 缓存异常时自动切换到备用源获取最新研报（历史研报查看也更稳定）",
+  "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.3/Setup.1.1.3.exe",
+  "sha256": "62be3dbce46c15e8001223fcbcbf3fd6940384f0e5582b2c5aed52568bbbf2c9"
 }
