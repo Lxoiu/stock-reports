@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "notes": "v1.1.0 更新内容：\n1. 新增【提前解锁】按钮，试用期内即可付费解锁\n2. 解锁页改为双图布局（收款码 + 添加方式）\n3. 研报升级：大盘分析 / 消息权重 / 主线板块 / PDF 版应用内查看\n4. 安全加固：加密口令混淆、锁定强拦截、防改时间、防调试",
+  "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.0/Setup.1.1.0.exe",
+  "sha256": "91b5f675d60f7c56b65b8b2a1601ebabaa1bc04b86daf3fd86d612e7f50df3d1"
+}
