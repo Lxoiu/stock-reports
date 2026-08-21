@@ -1,6 +1,6 @@
 {
   "version": "1.1.3",
-  "notes": "v1.1.3 更新内容：\n修复：CDN 缓存异常时自动切换到备用源获取最新研报（历史研报查看也更稳定）",
+  "notes": "",
   "url": "https://github.com/Lxoiu/stock-reports/releases/download/v1.1.3/Setup.1.1.3.exe",
   "sha256": "62be3dbce46c15e8001223fcbcbf3fd6940384f0e5582b2c5aed52568bbbf2c9"
 }
